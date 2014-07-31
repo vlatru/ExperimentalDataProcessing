@@ -1,4 +1,8 @@
-ExperimentalDataProcessing
+ExperimentalDataProcessing Solution
 ==========================
 
-ExperimentalDataProcessing
+проекты на c# Windows Forms
+целевая платформа .NET 4.5
+
+Предназначен для практики по предмету
+"Методы обработки экспериментальных данных" 
