@@ -1,0 +1,14 @@
+P:\git local repos\ExperimentalDataProcessing\WaveProcessing\CustomControls\bin\Debug\CustomControls.dll
+P:\git local repos\ExperimentalDataProcessing\WaveProcessing\CustomControls\bin\Debug\CustomControls.pdb
+P:\git local repos\ExperimentalDataProcessing\WaveProcessing\CustomControls\obj\Debug\CustomControls.csprojResolveAssemblyReference.cache
+P:\git local repos\ExperimentalDataProcessing\WaveProcessing\CustomControls\obj\Debug\WaveProcessing.CustomChart.resources
+P:\git local repos\ExperimentalDataProcessing\WaveProcessing\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.Cache
+P:\git local repos\ExperimentalDataProcessing\WaveProcessing\CustomControls\obj\Debug\CustomControls.dll
+P:\git local repos\ExperimentalDataProcessing\WaveProcessing\CustomControls\obj\Debug\CustomControls.pdb
+P:\git local repos\ExperimentalDataProcessing\ExperimentalDataProcessing\CustomControls\bin\Debug\CustomControls.dll
+P:\git local repos\ExperimentalDataProcessing\ExperimentalDataProcessing\CustomControls\bin\Debug\CustomControls.pdb
+P:\git local repos\ExperimentalDataProcessing\ExperimentalDataProcessing\CustomControls\obj\Debug\CustomControls.csprojResolveAssemblyReference.cache
+P:\git local repos\ExperimentalDataProcessing\ExperimentalDataProcessing\CustomControls\obj\Debug\WaveProcessing.CustomChart.resources
+P:\git local repos\ExperimentalDataProcessing\ExperimentalDataProcessing\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.Cache
+P:\git local repos\ExperimentalDataProcessing\ExperimentalDataProcessing\CustomControls\obj\Debug\CustomControls.dll
+P:\git local repos\ExperimentalDataProcessing\ExperimentalDataProcessing\CustomControls\obj\Debug\CustomControls.pdb

@@ -1,0 +1,12 @@
+P:\git local repos\ExperimentalDataProcessing\WaveProcessing\WaveProcessing\bin\Debug\WaveProcessing.exe.config
+P:\git local repos\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\bin\Debug\WaveProcessing.exe.config
+P:\git local repos\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\bin\Debug\WaveProcessing.exe
+P:\git local repos\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\bin\Debug\WaveProcessing.pdb
+P:\git local repos\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\bin\Debug\CustomControls.dll
+P:\git local repos\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\bin\Debug\CustomControls.pdb
+P:\git local repos\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\obj\Debug\WaveProcessing.csprojResolveAssemblyReference.cache
+P:\git local repos\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\obj\Debug\WaveProcessing.Form1.resources
+P:\git local repos\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\obj\Debug\WaveProcessing.Properties.Resources.resources
+P:\git local repos\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\obj\Debug\WaveProcessing.csproj.GenerateResource.Cache
+P:\git local repos\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\obj\Debug\WaveProcessing.exe
+P:\git local repos\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\obj\Debug\WaveProcessing.pdb
