@@ -1,1 +1,9 @@
 ﻿
+-----------------------------------------------
+myChart1.Series[0].Points.DataBindXY(xPts, origWave1);
+
+myChart1.ChartAreas[0].AxisX.Title = "x";
+myChart1.Legends[0].Enabled = true;
+myChart1.Legends[0].Title = "legend";
+
+chart.DataSource?
