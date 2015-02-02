@@ -32,3 +32,11 @@ P:\. LATEST\_ projects\ExperimentalDataProcessing\ExperimentalDataProcessing\Wav
 Q:\. LATEST\_ projects\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\bin\Debug\WaveProcessing.exe.config
 Q:\. LATEST\_ projects\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\obj\Debug\WaveProcessing.exe
 Q:\. LATEST\_ projects\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\obj\Debug\WaveProcessing.pdb
+Q:\. LATEST\_ projects\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\bin\Debug\WaveProcessing.exe
+Q:\. LATEST\_ projects\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\bin\Debug\WaveProcessing.pdb
+Q:\. LATEST\_ projects\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\bin\Debug\WinFormsDragMove.dll
+Q:\. LATEST\_ projects\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\obj\Debug\WaveProcessing.csprojResolveAssemblyReference.cache
+Q:\. LATEST\_ projects\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\obj\Debug\WaveProcessing.MyButton.resources
+Q:\. LATEST\_ projects\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\obj\Debug\WaveProcessing.MainForm.resources
+Q:\. LATEST\_ projects\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\obj\Debug\WaveProcessing.Properties.Resources.resources
+Q:\. LATEST\_ projects\ExperimentalDataProcessing\ExperimentalDataProcessing\WaveProcessing\obj\Debug\WaveProcessing.csproj.GenerateResource.Cache
